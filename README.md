@@ -40,8 +40,9 @@
 | nmb | Android | Material You 风格安卓客户端，主题配色自适应系统 | https://github.com/yollpoll/nmb | [No.53259710](https://www.nmbxd1.com/t/53259710)（设计讨论 [No.63100955](https://www.nmbxd1.com/t/63100955)） |
 | 黎明岛 DawnIsland | Android | 开源安卓客户端，功能全（涂鸦、热榜等），开发期大量参考蓝岛/紫岛 | https://github.com/MisoraRin/DawnIsland | 技术支持版多串：[No.66079491](https://www.nmbxd1.com/t/66079491)、[No.67262048](https://www.nmbxd1.com/t/67262048) |
 | AiDao | iOS（推测） | 第三方 iOS 客户端，M5 迭代测试中（仅见技术支持版测试串） | 见原串 | [No.69540962](https://www.nmbxd1.com/t/69540962) |
-| 紫岛 | Android | 老牌客户端（作者 seven233），岛上仍有多处在用反馈 | — | [No.64241215](https://www.nmbxd1.com/t/64241215) |
+| 紫岛 | Android | 老牌客户端（作者 seven233），岛上仍有多处在用反馈 | https://app.nmbxd.com/download/nimingban-1.3.1.apk | [No.64241215](https://www.nmbxd1.com/t/64241215) |
 | lightdao（白岛/透明岛） | Windows | Flutter 桌面客户端，宽屏多栏、引用原地嵌套显示、本地收藏 | 百度网盘 https://pan.baidu.com/s/1bDFajz8P9LErdoN9TIFrQQ?pwd=1pt2 | [No.64376936](https://www.nmbxd1.com/t/64376936) |
+| 岛民岛 | Android | 三岛合一,基于flutter | https://github.com/A-islander/islander-flutter | — |
 | 批处理客户端 | Windows | 用 bat + curl + JSON 解析写的"客户端"，纯文字查看，图一乐 | 蓝奏云 https://wwlp.lanzouw.com/iMbTD33gu81c | [No.66799926](https://www.nmbxd1.com/t/66799926) |
 
 ## 桌面 / 命令行 / 终端客户端
