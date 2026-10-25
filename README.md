@@ -7,6 +7,7 @@
 
 ### nmbxd.rs
 - 仓库：https://github.com/karuboniru/nmbxd.rs
+- 帖子: https://www.nmbxd1.com/t/69666266
 - 类型：Linux GUI 岛客户端（纯 vibe 产物，整体仍在施工中）
 - 当前状态：基本可用，已支持基本浏览和文字回复
 - 已知情况：
