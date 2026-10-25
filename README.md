@@ -51,7 +51,7 @@
 |---|---|---|---|---|
 | nmbxd.rs | Linux / Windows / macOS | Rust 编写的 GUI 客户端，树状浏览、折叠回复、换饼管理，有 Windows exe release | https://github.com/karuboniru/nmbxd.rs | [No.69666266](https://www.nmbxd1.com/t/69666266) |
 | xdcmd | 全平台（Python） | "在命令行里重现网页版刷岛体验"，看串/发串/引用/订阅管理；Arch 可用 yay -S xdao | https://github.com/TransparentLC/xdcmd | [No.50750950](https://www.nmbxd1.com/t/50750950) |
-| xdtui | 终端 TUI | 终端图形界面客户端：完整文本样式（彩色/骰子/防剧透）、终端图片显示、本地全文搜索、订阅/饼干管理 | 夸克网盘 https://pan.quark.cn/s/d2af72ccc011 | [No.69092642](https://www.nmbxd1.com/t/69092642) |
+| xdtui | 终端 TUI | 终端图形界面客户端：完整文本样式（彩色/骰子/防剧透）、终端图片显示、本地全文搜索、订阅/饼干管理 | https://pypi.org/project/xdtui/ | [No.69092642](https://www.nmbxd1.com/t/69092642) |
 | XoW | Windows (UWP) | UWP 客户端，完全开源，曾上架微软商店 | 微软商店 https://www.microsoft.com/store/apps/9N8NZJ88HF6C / https://github.com/boris1993/XoW | [No.51114645](https://www.nmbxd1.com/t/51114645) |
 | adnmb-cli | Linux | 基于 curses 的 A岛 CLI 客户端（半成品，作者自述"大概永远不会完成了"） | https://github.com/heixiaobai/adnmb-cli | — |
 
