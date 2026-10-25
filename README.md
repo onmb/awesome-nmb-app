@@ -30,7 +30,7 @@
 | 名称 | 平台 | 说明 | 获取 / 仓库 | 岛上原串 |
 |---|---|---|---|---|
 | 七号岛 | Android | 2026-10 公测的全新安卓客户端，原生平板适配+手机端，订阅按板块分类、新回复提示、防剧透、数据导出备份；纯 AI 开发、单机分发 | 蓝奏云 <https://wwamx.lanzouw.com/ispXI4cnxn2d>（密码：i49m）/ 百度网盘 <https://pan.baidu.com/s/1kmlsJ06PChUT2ZSle2Vfuw>（提取码：yr78） | [No.69655993](https://www.nmbxd1.com/t/69655993)（前传 [No.69514846](https://www.nmbxd1.com/t/69514846)） |
-| 喵岛 | 未注明 | 2026-10 新客户端，"每天一个小功能，一周一更"开发日常连载中 | 见原串更新 | [No.69679183](https://www.nmbxd1.com/t/69679183) |
+| 喵岛 | Android | 2026-10 新客户端，"每天一个小功能，一周一更"开发日常连载中 | https://github.com/XZto502/Mioo_dao | [No.69679183](https://www.nmbxd1.com/t/69679183) |
 | 蓝岛 | Android | 老牌闭源第三方客户端（Loyea），简约设计、体积小，生态内用户量最大 | 官网 https://landao.app | 反馈与支持串 [No.50095250](https://www.nmbxd1.com/t/50095250) |
 | 雾岛 | Android / iOS / macOS / 桌面 | 开源第三方客户端（Kotlin Multiplatform + SwiftUI），支持安卓、苹果、桌面三端 | https://github.com/123Duo3/XDNMB | 见仓库 Releases |
 | 霞岛 | Android / iOS | Flutter 开发的第三方客户端，多标签浏览、快捷饼干导入，双端统一逻辑 | 应用商店搜索"霞岛" | [No.69197449](https://www.nmbxd1.com/t/69197449)（用户讨论串 [No.61236809](https://www.nmbxd1.com/t/61236809)） |
