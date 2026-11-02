@@ -54,6 +54,7 @@
 | xdtui | 终端 TUI | 终端图形界面客户端：完整文本样式（彩色/骰子/防剧透）、终端图片显示、本地全文搜索、订阅/饼干管理 | https://pypi.org/project/xdtui/ | [No.69092642](https://www.nmbxd1.com/t/69092642) |
 | XoW | Windows (UWP) | UWP 客户端，完全开源，曾上架微软商店 | 微软商店 https://www.microsoft.com/store/apps/9N8NZJ88HF6C / https://github.com/boris1993/XoW | [No.51114645](https://www.nmbxd1.com/t/51114645) |
 | adnmb-cli | Linux | 基于 curses 的 A岛 CLI 客户端（半成品，作者自述"大概永远不会完成了"） | https://github.com/heixiaobai/adnmb-cli | — |
+| 摸鱼岛 | Windows | 用 .NET 8 + WPF 写的原生客户端：三栏布局、表情、roll 点、防剧透、夜间模式、历史、草稿、订阅等。 | https://github.com/junbluedd/Moyu-Island/ | [No.69574374](https://www.nmbxd1.com/t/69574374) |
 
 ## 网页端 / PWA / 油猴脚本
 
